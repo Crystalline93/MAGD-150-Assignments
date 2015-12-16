@@ -18,7 +18,7 @@ int numberBubbles;
 
 void setup(){
   size(800,600);
-  ellipseFish = new PVector(500,500);
+  ellipseFish = new PVector(500,500);     //where the fish will be x,y
   radius = 80;
   
   String url = "http://img3.wikia.nocookie.net/__cb20140904215856/simpsonstappedout/images/3/32/Treasure_Chest.png";
