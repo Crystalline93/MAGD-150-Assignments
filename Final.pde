@@ -1,4 +1,5 @@
 // My theme is spongebob; in particular a random jellyfish from spongebob.
+// Make sure to load font from font tool, otherwise it won't run. font = loadFont("SnapITC-Regular-40.vlw");
 int stateCount = 0;
 int State = 0;
 
